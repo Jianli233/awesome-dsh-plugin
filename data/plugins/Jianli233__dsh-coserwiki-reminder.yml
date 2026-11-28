@@ -1,6 +1,6 @@
 url: https://github.com/Jianli233/dsh-coserwiki-reminder
 name: Jianli233/dsh-coserwiki-reminder
-category: notify
+category: ui
 description:
   en: Browse coserwiki cosplay events by city or keyword, search cosplayers for follower counts, bios and full convention schedules, watch creators or single events to highlight and remind them (one month and one week ahead by default), plus calendar export.
   zh: 浏览 coserwiki 漫展活动，按城市筛选和关键词搜索；可以搜各种 coser 博主，看粉丝数、简介和完整参演日程；关注博主或单场活动后自动标注并在自定义时间点（默认提前 1 个月 / 1 周）以右下角轻提示提醒，支持导出日历。
